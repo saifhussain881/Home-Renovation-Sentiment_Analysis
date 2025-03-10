@@ -2,7 +2,7 @@
 
 This project analyzes customer reviews for home renovation services, identifying key features and evaluating sentiment using NLP techniques.
 
-Features
+# Features
 
 Identifies important aspects of home renovation (e.g., workmanship, professionalism, pricing).
 
