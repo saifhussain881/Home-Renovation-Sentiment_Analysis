@@ -29,3 +29,7 @@ Ensure you have Python installed on your system.
    git clone https://github.com/yourusername/home-renovation-sentiment.git
 
    cd home-renovation-sentiment
+
+2. Install dependencies:
+
+   pip install -r requirements.txt
