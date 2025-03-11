@@ -19,3 +19,12 @@ Visualizes results with Matplotlib charts.
 # Installation
 
 ## Prerequisites
+
+Ensure you have Python installed on your system.
+
+## Steps
+
+1. Clone the repository:
+
+   git clone https://github.com/yourusername/home-renovation-sentiment.git
+   cd home-renovation-sentiment
