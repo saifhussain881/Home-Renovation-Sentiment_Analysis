@@ -11,9 +11,3 @@ Uses VADER sentiment analysis to classify sentiments as Positive, Neutral, or Ne
 Generates detailed reports summarizing sentiment distribution.
 
 Visualizes results with Matplotlib charts.
-
-Installation
-
-Prerequisites
-
-Ensure you have Python installed on your system.
