@@ -11,4 +11,7 @@ Uses VADER sentiment analysis to classify sentiments as Positive, Neutral, or Ne
 Generates detailed reports summarizing sentiment distribution.
 
 Visualizes results with Matplotlib charts.
+
 ![sentiment_distribution_enhanced](https://github.com/user-attachments/assets/35811f91-b488-419d-b5e5-a645302d7428)
+
+![Screenshot 2024-12-18 174803](https://github.com/user-attachments/assets/f2f5ddab-7253-48f6-ad53-d0aee4f66ad1)
